@@ -14,6 +14,7 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Link for This Application](#Link-for-This-Application)
+- [Contributing](#contributing)
 
 
 ## Features
@@ -24,6 +25,7 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Responsive design for optimal user experience on different devices
 
 
+[🔼back to table of contents ](#table-of-contents)
 
 ## Acceptance Criteria
 
@@ -41,17 +43,18 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Deploying to Heroku should include proper build scripts for a webpack application.
 
 
+[🔼back to table of contents ](#table-of-contents)
 
 ## Installation
 
-1. Clone the repository: git clone <repository-url>
+1. Clone the repository: git clone <git@github.com:Nakisa-Alipour/pwa-text-editor.git>
 
 2. Install the dependencies: `npm install`
 
 3. Start the application: `npm start`
 
 
-
+[🔼back to table of contents ](#table-of-contents)
 
 ## Usage
 
@@ -61,6 +64,7 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Access your content offline.
 
 
+[🔼back to table of contents ](#table-of-contents)
 
 ## Technologies Used
 
@@ -73,11 +77,18 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Manifest
 
 
+[🔼back to table of contents ](#table-of-contents)
+
+## Link for This Application
+
+
+[🔼back to table of contents ](#table-of-contents)
 
 ## Contributing
 
-Contributions are welcome! Please refer to the [CONTRIBUTING](CONTRIBUTING.md) guidelines for more information.
+Contributions to the Social Network API are welcome! If you have any improvements or bug fixes, feel free to submit a pull request.
 
+[🔼back to table of contents ](#table-of-contents)
 
 
 
