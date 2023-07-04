@@ -64,15 +64,23 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Access your content offline.
 
 **PWA Text Editor Page**
+![PWA first page](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/4ca849c8-1eb9-4b85-9b86-8165f4824ec9)
+
 
 
 **PWA Text Editor- App Manifest**
+![PWA- App Manifest](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/0a03b735-c43a-4860-a045-9dfc12c619b1)
+
 
 
 **PWA Text Editor- Social Workers**
+![PWA-SW](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/fc3efce0-6fd7-4376-9777-78c3bcc6caab)
+
 
 
 **PWA Text Editor- DB**
+![PWA- DB](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/f49a4d46-ddc1-4214-b2ac-f2f2851b9f72)
+
 
 
 [🔼back to table of contents ](#table-of-contents)
