@@ -79,7 +79,8 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 
 
 **PWA Text Editor- DB**
-![PWA- DB](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/f49a4d46-ddc1-4214-b2ac-f2f2851b9f72)
+![PWA- DB](https://github.com/Nakisa-Alipour/pwa-text-editor/assets/124220654/de0fdf41-be7c-4cf4-ae94-a86a88bad3ca)
+
 
 
 
