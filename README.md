@@ -63,6 +63,17 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 - Edit and save your content.
 - Access your content offline.
 
+**PWA Text Editor Page**
+![Alt text](<PWA first page.jpg>)
+
+**PWA Text Editor- App Manifest**
+![Alt text](<PWA- App Manifest.jpg>)
+
+**PWA Text Editor- Social Workers**
+![Alt text](PWA-SW.jpg)
+
+**PWA Text Editor- DB**
+![Alt text](<PWA- DB.jpg>)
 
 [🔼back to table of contents ](#table-of-contents)
 
@@ -80,6 +91,7 @@ Progressive Web Applications (PWA): Text Editor is a web application that allows
 [🔼back to table of contents ](#table-of-contents)
 
 ## Link for This Application
+in Heroku: https://pwa-note-modifier-c775fafcd0b7.herokuapp.com/
 
 
 [🔼back to table of contents ](#table-of-contents)
